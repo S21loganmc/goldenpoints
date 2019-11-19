@@ -1,0 +1,50 @@
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\软件工程\团队\代码\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainScreen.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginScreen.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainScreen.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterScreen.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Error.resources
+G:\软件工程\团队\代码\新建文件夹 (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Success.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Error.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RegisterScreen.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginScreen.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainScreen.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Room.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Success.resources
+C:\Users\21179\Documents\Tencent Files\2117979238\FileRecv\WindowsFormsApplication2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
