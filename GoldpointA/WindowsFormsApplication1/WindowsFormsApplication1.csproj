@@ -153,11 +153,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\Aispace.csproj">
-      <Project>{24f38f6d-b0ff-4e80-8728-8c2c0dc8032b}</Project>
+      <Project>{2095263e-cd91-4564-8b11-901602067c72}</Project>
       <Name>Aispace</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\GPointSpace.csproj">
-      <Project>{2c0925fa-434f-4516-8aad-73a071b1f107}</Project>
+      <Project>{5366c088-3db5-443e-8632-3037c6db1ec5}</Project>
       <Name>GPointSpace</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Users\user JJL\Desktop\ConsoleApplication1\database.csproj">
