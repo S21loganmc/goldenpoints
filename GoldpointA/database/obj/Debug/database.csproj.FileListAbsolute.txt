@@ -1,0 +1,27 @@
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bronze\Desktop\201731024114\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\lenovo\Desktop\GoldenPoints17GIS\zx\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\lenovo\Desktop\GoldenPoints17GIS\zx\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\lenovo\Desktop\GoldenPoints17GIS\zx\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bronze\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\bronze\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\bronze\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\bronze\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\bronze\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\bronze\Desktop\ConsoleApplication1\obj\Debug\database.csprojResolveAssemblyReference.cache
+C:\Users\user JJL\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user JJL\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user JJL\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user JJL\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user JJL\Desktop\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user JJL\Desktop\ConsoleApplication1\obj\Debug\database.csprojAssemblyReference.cache
+D:\GoldpointA\database\bin\Debug\ConsoleApplication1.exe.config
+D:\GoldpointA\database\bin\Debug\ConsoleApplication1.exe
+D:\GoldpointA\database\bin\Debug\ConsoleApplication1.pdb
+D:\GoldpointA\database\obj\Debug\database.csprojAssemblyReference.cache
+D:\GoldpointA\database\obj\Debug\ConsoleApplication1.exe
+D:\GoldpointA\database\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,14 @@
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\Aispace.deps.json
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\Aispace.dll
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\Aispace.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.AssemblyInfoInputs.cache
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.AssemblyInfo.cs
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.dll
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.csprojAssemblyReference.cache
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\ConsoleApplication1.exe
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\ConsoleApplication1.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\bin\Debug\netstandard2.0\ConsoleApplication1.exe.config
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\Aispace\obj\Debug\netstandard2.0\Aispace.csproj.CopyComplete
+D:\GoldpointA\Aispace\obj\Debug\netstandard2.0\Aispace.dll
+D:\GoldpointA\Aispace\obj\Debug\netstandard2.0\Aispace.pdb

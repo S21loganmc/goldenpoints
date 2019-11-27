@@ -1,0 +1,16 @@
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\GPointSpace.deps.json
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\GPointSpace.dll
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\GPointSpace.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\Aispace.dll
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\Aispace.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.csprojAssemblyReference.cache
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.AssemblyInfoInputs.cache
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.AssemblyInfo.cs
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.csproj.CopyComplete
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.dll
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\ConsoleApplication1.exe
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\ConsoleApplication1.pdb
+C:\Users\user JJL\Desktop\12345\WindowsFormsApplication2\GPointSpace\bin\Debug\netstandard2.0\ConsoleApplication1.exe.config
+D:\GoldpointA\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.dll
+D:\GoldpointA\GPointSpace\obj\Debug\netstandard2.0\GPointSpace.pdb
